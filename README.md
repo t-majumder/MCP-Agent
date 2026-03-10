@@ -1,9 +1,6 @@
 # MCP Agent
 <img width="1344" height="504" alt="lg" src="https://github.com/user-attachments/assets/211066d1-c9e2-4f26-aa27-44fa3f75e5a6" />
 
-## UI
-<img width="1438" height="942" alt="base" src="https://github.com/user-attachments/assets/b694d588-8f32-4fdb-9467-eae6370d6b1c" />
-
 ## Generated Outputs CLI
 <img width="1920" height="990" alt="1" src="https://github.com/user-attachments/assets/4021c176-8693-4cad-9480-4abdacdebc12" />
 
@@ -12,3 +9,5 @@
 ## System Prompt
 
 <img width="500" height="1080" alt="3" src="https://github.com/user-attachments/assets/5d19504f-ded3-4f46-95d5-2bee5e4227a2" />
+## UI
+<img width="1438" height="942" alt="base" src="https://github.com/user-attachments/assets/b694d588-8f32-4fdb-9467-eae6370d6b1c" />
