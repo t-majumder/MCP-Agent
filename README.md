@@ -1,6 +1,8 @@
 # MCP Agent
 <img width="1344" height="504" alt="lg" src="https://github.com/user-attachments/assets/211066d1-c9e2-4f26-aa27-44fa3f75e5a6" />
 
+An interactive MCP server-based agentic system capable of talking to your data and generating all kinds of insights out of the data using no manual intervention.
+
 ## Generated Outputs CLI
 <img width="1920" height="990" alt="1" src="https://github.com/user-attachments/assets/4021c176-8693-4cad-9480-4abdacdebc12" />
 
