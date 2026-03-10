@@ -1,5 +1,7 @@
 # Case_Study-AP-election
 
+<img width="1438" height="942" alt="base" src="https://github.com/user-attachments/assets/b694d588-8f32-4fdb-9467-eae6370d6b1c" />
+
 ## Generated Outputs
 <img width="1920" height="990" alt="1" src="https://github.com/user-attachments/assets/4021c176-8693-4cad-9480-4abdacdebc12" />
 
